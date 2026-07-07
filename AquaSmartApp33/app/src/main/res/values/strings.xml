@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AquaSmart</string>
+
+    <string name="estado_buscando">Buscando dispositivo…</string>
+    <string name="estado_conectado">Conectado</string>
+    <string name="estado_no_encontrado">No se encontró el dispositivo</string>
+
+    <string name="dispositivo_label">Dispositivo</string>
+    <string name="dispositivo_sin_datos">—</string>
+
+    <string name="boton_abrir_panel">Abrir panel</string>
+    <string name="boton_buscar">Buscar nuevamente</string>
+    <string name="boton_reconfigurar">Reconfigurar WiFi</string>
+
+    <string name="ayuda_no_encontrado">Verifica que tu teléfono esté conectado a la misma red WiFi que AquaSmart, o conéctate a la red del dispositivo si es la primera vez.</string>
+    <string name="ayuda_reconfigurar">Conecta tu teléfono a la red WiFi del dispositivo AquaSmart y luego pulsa este botón para abrir el portal de configuración.</string>
+
+    <string name="webview_titulo">Panel AquaSmart</string>
+    <string name="webview_error">No se pudo cargar el panel. Comprueba la conexión con el dispositivo.</string>
+</resources>
